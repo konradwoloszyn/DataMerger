@@ -1,0 +1,8 @@
+Incorrect phone number format(18).
+Empty date fields(53).
+Empty or invalid email address(41).
+Date and email are incorrect(3).
+Contractors out of date range(315).
+Fulltimers out of date range(325).
+There is no corresponding records in users.csv for Contractors(48).
+There is no corresponding records in users.csv for Fulltimers(50).
